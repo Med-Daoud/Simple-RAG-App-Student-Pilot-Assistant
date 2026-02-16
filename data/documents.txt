@@ -1,0 +1,45 @@
+The Airbus A320 is a narrow-body commercial aircraft developed by Airbus. 
+It is widely used for short to medium-haul flights and can carry between 140 and 180 passengers depending on configuration. 
+The A320 family includes the A318, A319, A320, and A321 models.
+
+The Boeing 737 is one of the best-selling commercial aircraft in aviation history. 
+It is produced by Boeing and is commonly used for regional and short-haul routes. 
+The 737 MAX is the latest generation of this aircraft family.
+
+The standard takeoff speed (V1) is the decision speed during takeoff. 
+If an engine failure occurs before V1, the takeoff can be rejected. 
+After V1, the pilot must continue the takeoff.
+
+Rotation speed (VR) is the speed at which the pilot initiates aircraft rotation during takeoff. 
+V2 is the takeoff safety speed that must be maintained after liftoff in case of engine failure.
+
+In aviation meteorology, cumulonimbus clouds are associated with thunderstorms, heavy rain, turbulence, and icing. 
+Pilots must avoid flying directly through cumulonimbus clouds due to severe weather hazards.
+
+Wind shear is a sudden change in wind speed or direction over a short distance. 
+It is particularly dangerous during takeoff and landing phases.
+
+Instrument Flight Rules (IFR) allow pilots to fly in low visibility conditions using cockpit instruments. 
+Visual Flight Rules (VFR) require sufficient visibility and visual reference to the ground.
+
+A holding pattern is a racetrack-shaped maneuver used by aircraft while waiting for clearance to land. 
+It consists of inbound and outbound legs with standard rate turns.
+
+The Minimum Equipment List (MEL) specifies which aircraft equipment may be inoperative for a flight to be dispatched legally.
+
+Crew Resource Management (CRM) focuses on communication, leadership, and decision-making in the cockpit to improve flight safety.
+
+The International Civil Aviation Organization (ICAO) establishes global aviation safety standards and recommended practices.
+
+Stall occurs when the angle of attack exceeds the critical angle, resulting in a loss of lift. 
+Recovery requires reducing the angle of attack and applying appropriate power.
+
+Jet engines operate based on the principle of thrust generation by accelerating air rearward. 
+The four main stages are intake, compression, combustion, and exhaust.
+
+A standard instrument departure (SID) is a published departure procedure followed after takeoff. 
+A standard terminal arrival route (STAR) is used during the arrival phase before landing.
+
+The transponder code 7700 indicates a general emergency. 
+Code 7600 indicates radio communication failure. 
+Code 7500 indicates unlawful interference (hijacking).
