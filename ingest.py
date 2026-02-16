@@ -26,7 +26,7 @@ def build_vector_store():
     )
 
     vectorstore.persist()
-    print("✅ Vector store created successfully!")
+    print("Vector store created successfully!")
 
 if __name__ == "__main__":
     build_vector_store()
