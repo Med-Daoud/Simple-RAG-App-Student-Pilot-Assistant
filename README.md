@@ -15,8 +15,4 @@ An AI-powered assistant designed to help student pilots review aviation concepts
 - Ollama
 - ChromaDB
 
-## Installation
-```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-pip install -r requirements.txt
+
