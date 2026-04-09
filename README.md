@@ -1,27 +1,22 @@
-##Student Pilot RAG Assistant
+# Student Pilot RAG Assistant
 
-       An AI-powered Retrieval-Augmented Generation (RAG) assistant designed to help student          pilots review aviation concepts and ATPL theory topics.
+## Description
+An AI-powered assistant designed to help student pilots review aviation concepts and ATPL theory.
 
-       This project combines aviation knowledge and AI engineering to create a domain-specific        assistant that answers flight training questions using a custom knowledge base.
+## Features
+- Aviation knowledge base ingestion
+- Semantic search with embeddings
+- RAG architecture
+- Modular Python structure
 
- Features:
+## Tech Stack
+- Python
+- LangChain
+- Ollama
+- ChromaDB
 
-       Aviation knowledge base ingestion
-
-       Semantic search with vector embeddings
-
-       Retrieval-Augmented Generation architecture
-
-       Modular and clean Python structure
-
-       Designed for student pilots & ATPL preparation
-
-Tech Stack:
-
-       Python
-
-      LangChain
-
-      Ollama (Local LLM)
-
-      ChromaDB (Vector Store)
+## Installation
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
+pip install -r requirements.txt
